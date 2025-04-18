@@ -18,3 +18,4 @@ This web application is designed to help users keep track of their job applicati
     ```
 4. **Open the application**:
    - Navigate to `http://localhost:3000` in your web browser.
+# Job-tracker
